@@ -1,6 +1,6 @@
 package faidom;
 
-public class Hasab extends FaIdom {
+public class Hasab extends FaIdomok {
 
     private double a, b, magassag;
 

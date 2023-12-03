@@ -1,6 +1,6 @@
 package faidom;
 
-public class Gomb extends FaIdom {
+public class Gomb extends FaIdomok {
 
     private double sugar;
 

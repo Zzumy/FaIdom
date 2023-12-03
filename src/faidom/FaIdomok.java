@@ -1,6 +1,6 @@
 package faidom;
 
-public abstract class FaIdom {
+public abstract class FaIdomok {
 
     private static final double FAJSULY = 0.8;
 
